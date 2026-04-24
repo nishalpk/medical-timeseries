@@ -1,3 +1,6 @@
 pandas
 networkx
 google-generativeai
+torch
+google-genai
+numpy
