@@ -1,1 +1,1 @@
-# graphrag-timeseries
+# ml project
