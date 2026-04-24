@@ -1,0 +1,8001 @@
+[{
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T22:06:00",
+  "valuenum": "58.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-22.4"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T22:06:00",
+  "valuenum": "31.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-22.4"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T22:09:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-22.35"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T22:12:00",
+  "valuenum": "105.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-22.3"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T22:15:00",
+  "valuenum": "57.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-22.25"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T22:30:00",
+  "valuenum": "56.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-22.0"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T22:30:00",
+  "valuenum": "91.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-22.0"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T22:30:00",
+  "valuenum": "14.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-22.0"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T22:31:00",
+  "valuenum": "103.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-21.983333333333334"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T22:45:00",
+  "valuenum": "15.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-21.75"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T22:45:00",
+  "valuenum": "93.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-21.75"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T22:45:00",
+  "valuenum": "103.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-21.75"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T22:45:00",
+  "valuenum": "56.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-21.75"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T23:00:00",
+  "valuenum": "21.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-21.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T23:00:00",
+  "valuenum": "57.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-21.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T23:02:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-21.466666666666665"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T23:29:00",
+  "valuenum": "109.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-21.016666666666666"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T23:30:00",
+  "valuenum": "15.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-21.0"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T23:30:00",
+  "valuenum": "55.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-21.0"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T23:30:00",
+  "valuenum": "92.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-21.0"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T23:31:00",
+  "valuenum": "101.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-20.983333333333334"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T23:45:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-20.75"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T23:45:00",
+  "valuenum": "20.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-20.75"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T23:45:00",
+  "valuenum": "110.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-20.75"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-06T23:45:00",
+  "valuenum": "57.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-20.75"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T00:00:00",
+  "valuenum": "58.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-20.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T00:00:00",
+  "valuenum": "30.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-20.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T00:00:00",
+  "valuenum": "90.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-20.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T00:01:00",
+  "valuenum": "110.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-20.483333333333334"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T01:00:00",
+  "valuenum": "17.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-19.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T01:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-19.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T01:00:00",
+  "valuenum": "57.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-19.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T02:00:00",
+  "valuenum": "61.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-18.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T02:00:00",
+  "valuenum": "19.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-18.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T02:24:00",
+  "valuenum": "101.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-18.1"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T02:25:00",
+  "valuenum": "99.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-18.083333333333332"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T03:00:00",
+  "valuenum": "57.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-17.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T03:00:00",
+  "valuenum": "13.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-17.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T03:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-17.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T03:01:00",
+  "valuenum": "95.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-17.483333333333334"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T04:00:00",
+  "valuenum": "14.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-16.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T04:00:00",
+  "valuenum": "100.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-16.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T04:00:00",
+  "valuenum": "54.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-16.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T04:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-16.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T05:00:00",
+  "valuenum": "55.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-15.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T05:00:00",
+  "valuenum": "15.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-15.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T05:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-15.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T05:01:00",
+  "valuenum": "103.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-15.483333333333333"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T06:00:00",
+  "valuenum": "18.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-14.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T06:00:00",
+  "valuenum": "98.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-14.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T06:00:00",
+  "valuenum": "59.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-14.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T06:00:00",
+  "valuenum": "97.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-14.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T07:00:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-13.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T07:00:00",
+  "valuenum": "62.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-13.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T07:00:00",
+  "valuenum": "10.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-13.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T07:30:00",
+  "valuenum": "103.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-13.0"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T08:00:00",
+  "valuenum": "10.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-12.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T08:00:00",
+  "valuenum": "62.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-12.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T08:01:00",
+  "valuenum": "104.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-12.483333333333333"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T08:01:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-12.483333333333333"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T08:55:00",
+  "valuenum": "1.2",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-11.583333333333334"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T08:55:00",
+  "valuenum": "149.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-11.583333333333334"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T08:55:00",
+  "valuenum": "117.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-11.583333333333334"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T08:55:00",
+  "valuenum": "10.1",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-11.583333333333334"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T08:55:00",
+  "valuenum": "0.7",
+  "itemid": "50885",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-11.583333333333334"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T09:00:00",
+  "valuenum": "7.39",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-11.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T09:00:00",
+  "valuenum": "1.4",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-11.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T09:00:00",
+  "valuenum": "62.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-11.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T09:00:00",
+  "valuenum": "16.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-11.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T09:11:00",
+  "valuenum": "99.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-11.316666666666666"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T09:12:00",
+  "valuenum": "125.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-11.3"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T10:00:00",
+  "valuenum": "61.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-10.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T10:00:00",
+  "valuenum": "17.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-10.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T10:00:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-10.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T10:27:00",
+  "valuenum": "120.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-10.05"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T11:00:00",
+  "valuenum": "28.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-9.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T11:00:00",
+  "valuenum": "66.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-9.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T11:34:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-8.9333333333333336"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T11:35:00",
+  "valuenum": "106.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-8.9166666666666661"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T12:00:00",
+  "valuenum": "103.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-8.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T12:02:00",
+  "valuenum": "64.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-8.4666666666666668"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T12:02:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-8.4666666666666668"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T12:02:00",
+  "valuenum": "16.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-8.4666666666666668"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T13:00:00",
+  "valuenum": "14.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-7.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T13:00:00",
+  "valuenum": "65.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-7.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T13:00:00",
+  "valuenum": "99.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-7.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T13:00:00",
+  "valuenum": "96.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-7.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T14:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-6.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T14:00:00",
+  "valuenum": "67.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-6.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T14:00:00",
+  "valuenum": "110.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-6.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T14:00:00",
+  "valuenum": "22.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-6.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T15:33:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.95"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T15:33:00",
+  "valuenum": "56.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.95"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T15:34:00",
+  "valuenum": "119.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.9333333333333336"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T15:34:00",
+  "valuenum": "18.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.9333333333333336"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T15:41:00",
+  "valuenum": "111.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-4.8166666666666664"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T15:41:00",
+  "valuenum": "1.1",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-4.8166666666666664"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T16:00:00",
+  "valuenum": "128.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T16:00:00",
+  "valuenum": "53.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T16:00:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T16:00:00",
+  "valuenum": "17.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T17:00:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-3.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T17:00:00",
+  "valuenum": "14.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-3.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T17:00:00",
+  "valuenum": "69.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-3.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T18:00:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T18:00:00",
+  "valuenum": "59.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T18:00:00",
+  "valuenum": "14.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T18:02:00",
+  "valuenum": "115.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.4666666666666668"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T19:00:00",
+  "valuenum": "126.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-1.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T19:00:00",
+  "valuenum": "57.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-1.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T19:00:00",
+  "valuenum": "17.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-1.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T19:00:00",
+  "valuenum": "99.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-1.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T20:00:00",
+  "valuenum": "19.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T20:00:00",
+  "valuenum": "66.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T20:01:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.48333333333333334"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T20:01:00",
+  "valuenum": "114.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.48333333333333334"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T21:00:00",
+  "valuenum": "21.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T21:00:00",
+  "valuenum": "56.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T21:00:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T21:01:00",
+  "valuenum": "91.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.51666666666666672"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T22:00:00",
+  "valuenum": "109.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T22:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T22:00:00",
+  "valuenum": "63.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T22:00:00",
+  "valuenum": "18.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T23:00:00",
+  "valuenum": "20.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T23:00:00",
+  "valuenum": "98.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T23:00:00",
+  "valuenum": "67.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-07T23:00:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T00:00:00",
+  "valuenum": "98.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T00:00:00",
+  "valuenum": "114.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T00:00:00",
+  "valuenum": "55.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T00:00:00",
+  "valuenum": "15.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T01:03:00",
+  "valuenum": "77.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.55"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T01:04:00",
+  "valuenum": "19.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.5666666666666664"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T01:05:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.583333333333333"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T02:00:00",
+  "valuenum": "12.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T02:00:00",
+  "valuenum": "71.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T02:00:00",
+  "valuenum": "98.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T02:01:00",
+  "valuenum": "97.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.5166666666666666"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T03:00:00",
+  "valuenum": "113.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T03:00:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T03:00:00",
+  "valuenum": "13.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T03:00:00",
+  "valuenum": "82.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T04:00:00",
+  "valuenum": "82.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T04:00:00",
+  "valuenum": "14.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T04:00:00",
+  "valuenum": "122.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T04:00:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T05:00:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T05:00:00",
+  "valuenum": "87.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T05:00:00",
+  "valuenum": "7.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T05:00:00",
+  "valuenum": "130.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T05:43:00",
+  "valuenum": null,
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "9.2166666666666668"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T05:43:00",
+  "valuenum": "75.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "9.2166666666666668"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T05:43:00",
+  "valuenum": null,
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "9.2166666666666668"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T05:43:00",
+  "valuenum": "1.2",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "9.2166666666666668"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T05:43:00",
+  "valuenum": "0.4",
+  "itemid": "50885",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "9.2166666666666668"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T06:00:00",
+  "valuenum": "129.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T06:00:00",
+  "valuenum": "10.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T06:00:00",
+  "valuenum": "87.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T06:00:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T07:55:00",
+  "valuenum": "159.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.416666666666666"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T07:55:00",
+  "valuenum": "6.9",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.416666666666666"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T08:00:00",
+  "valuenum": "84.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T08:00:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T08:00:00",
+  "valuenum": "15.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.5"
+}, {
+  "stay_id": "30018045",
+  "event_time": "2206-12-08T08:04:00",
+  "valuenum": "149.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.566666666666666"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T17:39:00",
+  "valuenum": "31.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.1"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T17:39:00",
+  "valuenum": "83.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.1"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T17:40:00",
+  "valuenum": "93.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.083333333333333329"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T17:42:00",
+  "valuenum": "91.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.05"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T17:52:00",
+  "valuenum": "24.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.11666666666666667"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T17:52:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.11666666666666667"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T17:52:00",
+  "valuenum": "89.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.11666666666666667"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T17:52:00",
+  "valuenum": "83.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.11666666666666667"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T18:00:00",
+  "valuenum": "23.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T18:00:00",
+  "valuenum": "78.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T18:00:00",
+  "valuenum": "88.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T18:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T18:31:00",
+  "valuenum": "127.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.76666666666666672"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T18:31:00",
+  "valuenum": "282.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.76666666666666672"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T18:31:00",
+  "valuenum": "0.7",
+  "itemid": "50885",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.76666666666666672"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T18:31:00",
+  "valuenum": "1.4",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.76666666666666672"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T18:31:00",
+  "valuenum": "14.1",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.76666666666666672"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T18:47:00",
+  "valuenum": "1.9",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "1.0333333333333334"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T18:47:00",
+  "valuenum": "7.45",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "1.0333333333333334"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T19:00:00",
+  "valuenum": "86.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T19:00:00",
+  "valuenum": "80.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T19:00:00",
+  "valuenum": "25.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T19:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T20:00:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T20:00:00",
+  "valuenum": "80.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T20:00:00",
+  "valuenum": "84.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T20:00:00",
+  "valuenum": "22.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T21:00:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T21:00:00",
+  "valuenum": "85.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T21:00:00",
+  "valuenum": "82.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T21:00:00",
+  "valuenum": "24.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T21:39:00",
+  "valuenum": "72.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.9"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T21:39:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.9"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T21:39:00",
+  "valuenum": "18.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.9"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T21:39:00",
+  "valuenum": "84.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.9"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T22:00:00",
+  "valuenum": "87.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T22:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T22:00:00",
+  "valuenum": "24.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T22:00:00",
+  "valuenum": "97.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T23:00:00",
+  "valuenum": "93.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T23:00:00",
+  "valuenum": "81.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T23:00:00",
+  "valuenum": "23.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-10T23:00:00",
+  "valuenum": "79.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T00:00:00",
+  "valuenum": "82.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T00:00:00",
+  "valuenum": "79.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T00:00:00",
+  "valuenum": "21.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T00:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T01:00:00",
+  "valuenum": "76.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T01:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T01:00:00",
+  "valuenum": "20.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T01:00:00",
+  "valuenum": "75.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T02:00:00",
+  "valuenum": "75.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T02:00:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T02:00:00",
+  "valuenum": "20.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T02:00:00",
+  "valuenum": "73.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T03:00:00",
+  "valuenum": "77.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T03:00:00",
+  "valuenum": "77.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T03:00:00",
+  "valuenum": "21.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T03:00:00",
+  "valuenum": "98.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T04:00:00",
+  "valuenum": "19.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T04:00:00",
+  "valuenum": "61.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T04:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T04:00:00",
+  "valuenum": "70.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T05:00:00",
+  "valuenum": "86.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T05:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T05:00:00",
+  "valuenum": "81.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T05:00:00",
+  "valuenum": "21.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.25"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T05:41:00",
+  "valuenum": "112.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.933333333333334"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T05:41:00",
+  "valuenum": "12.8",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.933333333333334"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T05:41:00",
+  "valuenum": "1.4",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.933333333333334"
+}, {
+  "stay_id": "30074429",
+  "event_time": "2147-06-11T05:41:00",
+  "valuenum": "275.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.933333333333334"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-07T22:29:00",
+  "valuenum": "9.9",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-15.3"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-07T22:29:00",
+  "valuenum": "1.1",
+  "itemid": "50885",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-15.3"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-07T22:29:00",
+  "valuenum": "128.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-15.3"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-07T22:29:00",
+  "valuenum": "142.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-15.3"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-07T22:29:00",
+  "valuenum": "1.2",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-15.3"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T06:07:00",
+  "valuenum": "7.34",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-7.666666666666667"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T06:07:00",
+  "valuenum": "4.6",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-7.666666666666667"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T06:20:00",
+  "valuenum": "1.5",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-7.45"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T06:20:00",
+  "valuenum": "13.5",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-7.45"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T06:20:00",
+  "valuenum": "148.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-7.45"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T06:20:00",
+  "valuenum": "179.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-7.45"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T06:42:00",
+  "valuenum": "107.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-7.083333333333333"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T06:42:00",
+  "valuenum": "32.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-7.083333333333333"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T06:43:00",
+  "valuenum": "107.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-7.0666666666666664"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T06:44:00",
+  "valuenum": "85.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-7.05"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T06:51:00",
+  "valuenum": "32.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-6.9333333333333336"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T06:51:00",
+  "valuenum": "102.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-6.9333333333333336"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T06:51:00",
+  "valuenum": "92.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-6.9333333333333336"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T07:00:00",
+  "valuenum": "89.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-6.7833333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T07:00:00",
+  "valuenum": "29.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-6.7833333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T07:00:00",
+  "valuenum": "99.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-6.7833333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T07:04:00",
+  "valuenum": "144.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-6.7166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T07:04:00",
+  "valuenum": "15.2",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-6.7166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T07:04:00",
+  "valuenum": "1.5",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-6.7166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T07:04:00",
+  "valuenum": "133.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-6.7166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T07:04:00",
+  "valuenum": "165.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-6.7166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T07:13:00",
+  "valuenum": "7.8",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-6.5666666666666664"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T07:13:00",
+  "valuenum": "7.0",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-6.5666666666666664"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:00:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-5.7833333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:00:00",
+  "valuenum": "81.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-5.7833333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:00:00",
+  "valuenum": "20.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-5.7833333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:01:00",
+  "valuenum": "100.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-5.7666666666666666"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:22:00",
+  "valuenum": "5.3",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-5.416666666666667"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:22:00",
+  "valuenum": "7.14",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-5.416666666666667"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:30:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-5.2833333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:30:00",
+  "valuenum": "79.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-5.2833333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:30:00",
+  "valuenum": "18.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-5.2833333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:31:00",
+  "valuenum": "101.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-5.2666666666666666"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:45:00",
+  "valuenum": "91.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-5.0333333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:45:00",
+  "valuenum": "20.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-5.0333333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:45:00",
+  "valuenum": "81.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-5.0333333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:46:00",
+  "valuenum": "80.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-5.0166666666666666"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:50:00",
+  "valuenum": "92.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.95"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:50:00",
+  "valuenum": "79.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.95"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:50:00",
+  "valuenum": "18.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.95"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:51:00",
+  "valuenum": "83.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.9333333333333336"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:55:00",
+  "valuenum": "90.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.8666666666666663"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:55:00",
+  "valuenum": "20.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.8666666666666663"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T08:55:00",
+  "valuenum": "79.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.8666666666666663"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T09:00:00",
+  "valuenum": "20.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.7833333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T09:00:00",
+  "valuenum": "90.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.7833333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T09:00:00",
+  "valuenum": "82.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.7833333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T09:00:00",
+  "valuenum": "77.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.7833333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T09:05:00",
+  "valuenum": "19.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.7"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T09:05:00",
+  "valuenum": "92.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.7"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T09:05:00",
+  "valuenum": "78.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.7"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T09:10:00",
+  "valuenum": "82.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.6166666666666663"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T09:10:00",
+  "valuenum": "21.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.6166666666666663"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T09:10:00",
+  "valuenum": "93.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.6166666666666663"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T09:11:00",
+  "valuenum": "102.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-4.6"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T10:00:00",
+  "valuenum": "19.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-3.7833333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T10:00:00",
+  "valuenum": "76.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-3.7833333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T10:00:00",
+  "valuenum": "92.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-3.7833333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T10:01:00",
+  "valuenum": "90.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-3.7666666666666666"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T10:15:00",
+  "valuenum": "93.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-3.5333333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T10:15:00",
+  "valuenum": "20.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-3.5333333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T10:15:00",
+  "valuenum": "76.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-3.5333333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T10:16:00",
+  "valuenum": "77.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-3.5166666666666666"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T11:00:00",
+  "valuenum": "99.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.7833333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T11:00:00",
+  "valuenum": "88.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.7833333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T11:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.7833333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T11:00:00",
+  "valuenum": "23.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.7833333333333332"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T11:39:00",
+  "valuenum": "163.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-2.1333333333333333"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T11:39:00",
+  "valuenum": "1.6",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-2.1333333333333333"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T12:00:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-1.7833333333333334"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T12:00:00",
+  "valuenum": "85.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-1.7833333333333334"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T12:00:00",
+  "valuenum": "17.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-1.7833333333333334"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T12:08:00",
+  "valuenum": "136.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-1.65"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T13:00:00",
+  "valuenum": "95.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.78333333333333333"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T13:00:00",
+  "valuenum": "21.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.78333333333333333"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T13:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.78333333333333333"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T13:01:00",
+  "valuenum": "126.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.76666666666666672"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T14:00:00",
+  "valuenum": "12.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.21666666666666667"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T14:00:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.21666666666666667"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T14:00:00",
+  "valuenum": "84.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.21666666666666667"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T14:01:00",
+  "valuenum": "105.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.23333333333333334"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T14:05:00",
+  "valuenum": "7.35",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.3"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T14:05:00",
+  "valuenum": "4.2",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.3"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T15:00:00",
+  "valuenum": "84.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.2166666666666666"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T15:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.2166666666666666"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T15:00:00",
+  "valuenum": "14.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.2166666666666666"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T15:01:00",
+  "valuenum": "102.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.2333333333333334"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T16:00:00",
+  "valuenum": "13.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T16:00:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T16:00:00",
+  "valuenum": "75.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T16:01:00",
+  "valuenum": "98.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.2333333333333334"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T17:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T17:00:00",
+  "valuenum": "85.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T17:00:00",
+  "valuenum": "17.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T17:16:00",
+  "valuenum": "111.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.4833333333333334"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T18:00:00",
+  "valuenum": "92.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T18:00:00",
+  "valuenum": "18.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T18:00:00",
+  "valuenum": "82.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T18:01:00",
+  "valuenum": "117.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.2333333333333334"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T19:00:00",
+  "valuenum": "18.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T19:00:00",
+  "valuenum": "93.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T19:00:00",
+  "valuenum": "80.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T19:01:00",
+  "valuenum": "109.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.2333333333333334"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T20:00:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T20:00:00",
+  "valuenum": "15.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T20:00:00",
+  "valuenum": "82.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T20:01:00",
+  "valuenum": "117.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.2333333333333334"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T21:00:00",
+  "valuenum": "7.4",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "7.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T21:00:00",
+  "valuenum": "3.0",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "7.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T21:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T21:00:00",
+  "valuenum": "85.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T21:00:00",
+  "valuenum": "19.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T21:01:00",
+  "valuenum": "106.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.2333333333333334"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T22:00:00",
+  "valuenum": "16.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T22:00:00",
+  "valuenum": "80.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T22:00:00",
+  "valuenum": "91.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T22:01:00",
+  "valuenum": "104.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.2333333333333325"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T23:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T23:00:00",
+  "valuenum": "18.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T23:00:00",
+  "valuenum": "76.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.2166666666666668"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-08T23:01:00",
+  "valuenum": "89.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.2333333333333325"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-09T00:00:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.216666666666667"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-09T00:00:00",
+  "valuenum": "17.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.216666666666667"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-09T00:00:00",
+  "valuenum": "75.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.216666666666667"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-09T00:01:00",
+  "valuenum": "92.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.233333333333333"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-09T01:00:00",
+  "valuenum": "76.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.216666666666667"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-09T01:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.216666666666667"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-09T01:00:00",
+  "valuenum": "18.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.216666666666667"
+}, {
+  "stay_id": "30082529",
+  "event_time": "2174-05-09T01:01:00",
+  "valuenum": "93.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.233333333333333"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T10:03:00",
+  "valuenum": "7.35",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-5.95"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T10:03:00",
+  "valuenum": "6.2",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-5.95"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T10:03:00",
+  "valuenum": "260.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-5.95"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T10:03:00",
+  "valuenum": "0.9",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-5.95"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T12:04:00",
+  "valuenum": "7.34",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-3.9333333333333331"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T12:04:00",
+  "valuenum": "1.0",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-3.9333333333333331"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T13:33:00",
+  "valuenum": "1.0",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-2.45"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T13:33:00",
+  "valuenum": "7.33",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-2.45"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T16:50:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.83333333333333337"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T16:51:00",
+  "valuenum": "83.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.85"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T16:52:00",
+  "valuenum": "90.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.8666666666666667"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T16:52:00",
+  "valuenum": "17.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.8666666666666667"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T17:00:00",
+  "valuenum": "219.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "1.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T17:00:00",
+  "valuenum": "91.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T17:00:00",
+  "valuenum": "14.5",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "1.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T17:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T17:00:00",
+  "valuenum": "0.9",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "1.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T17:00:00",
+  "valuenum": "21.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T17:01:00",
+  "valuenum": "78.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.0166666666666666"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T17:07:00",
+  "valuenum": "7.37",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "1.1166666666666667"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T17:22:00",
+  "valuenum": "17.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.3666666666666667"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T17:22:00",
+  "valuenum": "79.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.3666666666666667"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T17:22:00",
+  "valuenum": "93.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.3666666666666667"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T17:22:00",
+  "valuenum": "91.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.3666666666666667"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T18:00:00",
+  "valuenum": "83.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T18:00:00",
+  "valuenum": "20.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T18:00:00",
+  "valuenum": "92.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T18:00:00",
+  "valuenum": "91.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T19:00:00",
+  "valuenum": "90.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T19:00:00",
+  "valuenum": "22.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T19:00:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T19:00:00",
+  "valuenum": "90.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T20:00:00",
+  "valuenum": "90.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T20:00:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T20:00:00",
+  "valuenum": "90.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T20:00:00",
+  "valuenum": "22.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T20:58:00",
+  "valuenum": "135.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.9666666666666668"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T21:00:00",
+  "valuenum": "17.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T21:00:00",
+  "valuenum": "114.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T21:00:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T21:00:00",
+  "valuenum": "88.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T21:02:00",
+  "valuenum": "54.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.0333333333333332"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T22:00:00",
+  "valuenum": "8.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T22:00:00",
+  "valuenum": "100.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T22:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T22:00:00",
+  "valuenum": "83.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T23:00:00",
+  "valuenum": "116.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T23:00:00",
+  "valuenum": "99.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T23:00:00",
+  "valuenum": "83.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-05T23:01:00",
+  "valuenum": "12.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.0166666666666666"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T00:00:00",
+  "valuenum": "8.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T00:00:00",
+  "valuenum": "80.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T00:00:00",
+  "valuenum": "109.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T00:00:00",
+  "valuenum": "98.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T01:00:00",
+  "valuenum": "9.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T01:00:00",
+  "valuenum": "78.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T01:00:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T01:00:00",
+  "valuenum": "130.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T02:00:00",
+  "valuenum": "10.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T02:00:00",
+  "valuenum": "115.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T02:00:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T02:00:00",
+  "valuenum": "78.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T03:00:00",
+  "valuenum": "119.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T03:00:00",
+  "valuenum": "79.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T03:00:00",
+  "valuenum": "9.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T03:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T03:09:00",
+  "valuenum": "105.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.15"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T03:09:00",
+  "valuenum": "204.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.15"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T03:09:00",
+  "valuenum": "12.2",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.15"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T03:09:00",
+  "valuenum": "0.8",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.15"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T03:18:00",
+  "valuenum": "7.3",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.3"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T04:00:00",
+  "valuenum": "79.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "12.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T04:00:00",
+  "valuenum": "9.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "12.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T04:00:00",
+  "valuenum": "98.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "12.0"
+}, {
+  "stay_id": "30091276",
+  "event_time": "2170-08-06T04:00:00",
+  "valuenum": "109.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "12.0"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T04:50:00",
+  "valuenum": "143.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-6.0666666666666664"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T04:50:00",
+  "valuenum": "322.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-6.0666666666666664"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T04:50:00",
+  "valuenum": "19.7",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-6.0666666666666664"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T04:50:00",
+  "valuenum": "2.0",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-6.0666666666666664"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T07:49:00",
+  "valuenum": "7.19",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-3.0833333333333335"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T07:49:00",
+  "valuenum": "0.7",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-3.0833333333333335"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T08:00:00",
+  "valuenum": "128.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.9"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T08:44:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.1666666666666665"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T08:45:00",
+  "valuenum": "71.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.15"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T08:45:00",
+  "valuenum": "21.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.15"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T09:00:00",
+  "valuenum": "72.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-1.9"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T09:00:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-1.9"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T09:00:00",
+  "valuenum": "26.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-1.9"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T09:01:00",
+  "valuenum": "139.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-1.8833333333333333"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T10:00:00",
+  "valuenum": "29.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.9"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T10:00:00",
+  "valuenum": "76.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.9"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T10:01:00",
+  "valuenum": "114.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.8833333333333333"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T10:01:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.8833333333333333"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T10:33:00",
+  "valuenum": "7.22",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-0.35"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T10:54:00",
+  "valuenum": "2.1",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.0"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T11:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T11:00:00",
+  "valuenum": "80.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T11:00:00",
+  "valuenum": "29.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T11:01:00",
+  "valuenum": "139.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.11666666666666667"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T12:01:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.1166666666666667"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T12:01:00",
+  "valuenum": "98.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.1166666666666667"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T12:01:00",
+  "valuenum": "32.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.1166666666666667"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T13:00:00",
+  "valuenum": "30.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T13:00:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T13:00:00",
+  "valuenum": "89.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T13:01:00",
+  "valuenum": "132.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.1166666666666667"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T14:00:00",
+  "valuenum": "21.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T14:00:00",
+  "valuenum": "78.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T14:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T14:01:00",
+  "valuenum": "104.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.1166666666666667"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T14:44:00",
+  "valuenum": "7.32",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "3.8333333333333335"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T15:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T15:00:00",
+  "valuenum": "20.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T15:00:00",
+  "valuenum": "79.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T15:01:00",
+  "valuenum": "100.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.1166666666666663"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T16:00:00",
+  "valuenum": "73.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T16:00:00",
+  "valuenum": "21.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T16:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T16:01:00",
+  "valuenum": "114.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.1166666666666663"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T17:00:00",
+  "valuenum": "25.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T17:00:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T17:00:00",
+  "valuenum": "69.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T17:01:00",
+  "valuenum": "116.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.1166666666666663"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T18:00:00",
+  "valuenum": "63.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T18:00:00",
+  "valuenum": "21.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T18:00:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T18:01:00",
+  "valuenum": "98.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.1166666666666663"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T19:00:00",
+  "valuenum": "71.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T19:00:00",
+  "valuenum": "21.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T19:00:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T19:01:00",
+  "valuenum": "104.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.1166666666666671"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T20:00:00",
+  "valuenum": "20.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T20:00:00",
+  "valuenum": "75.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T20:00:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T20:01:00",
+  "valuenum": "110.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.1166666666666671"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T20:57:00",
+  "valuenum": "7.39",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "10.05"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T21:00:00",
+  "valuenum": "29.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T21:00:00",
+  "valuenum": "70.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T21:00:00",
+  "valuenum": "91.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T21:01:00",
+  "valuenum": "154.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.116666666666667"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T22:00:00",
+  "valuenum": "20.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T22:00:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T22:00:00",
+  "valuenum": "59.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.1"
+}, {
+  "stay_id": "30101771",
+  "event_time": "2147-08-28T22:01:00",
+  "valuenum": "94.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.116666666666667"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T10:51:00",
+  "valuenum": "2.0",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-4.15"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T10:51:00",
+  "valuenum": "7.45",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-4.15"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T11:34:00",
+  "valuenum": "1.6",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-3.4333333333333331"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T11:34:00",
+  "valuenum": "7.49",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-3.4333333333333331"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T13:04:00",
+  "valuenum": "7.43",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-1.9333333333333333"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T13:04:00",
+  "valuenum": "2.7",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-1.9333333333333333"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T14:00:00",
+  "valuenum": "2.5",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-1.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T14:00:00",
+  "valuenum": "7.39",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-1.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T15:04:00",
+  "valuenum": "208.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.066666666666666666"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T15:04:00",
+  "valuenum": "162.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.066666666666666666"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T15:04:00",
+  "valuenum": "13.3",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.066666666666666666"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T15:04:00",
+  "valuenum": "0.9",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.066666666666666666"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T15:50:00",
+  "valuenum": "65.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.83333333333333337"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T15:50:00",
+  "valuenum": "12.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.83333333333333337"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T15:51:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.85"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T15:55:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.91666666666666663"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T15:55:00",
+  "valuenum": "57.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.91666666666666663"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T15:55:00",
+  "valuenum": "16.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.91666666666666663"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T15:56:00",
+  "valuenum": "131.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.93333333333333335"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T16:00:00",
+  "valuenum": "72.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T16:00:00",
+  "valuenum": "16.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T16:00:00",
+  "valuenum": "69.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T16:00:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T16:02:00",
+  "valuenum": "7.34",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "1.0333333333333334"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T16:31:00",
+  "valuenum": "86.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.5166666666666666"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T16:38:00",
+  "valuenum": "0.50021888455376029",
+  "itemid": "221749",
+  "source": "pressor",
+  "label": "true",
+  "hrs_since_anchor": "1.6333333333333333"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T17:00:00",
+  "valuenum": "16.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T17:00:00",
+  "valuenum": "91.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T17:00:00",
+  "valuenum": "75.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T17:00:00",
+  "valuenum": "99.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:00:00",
+  "valuenum": "75.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:00:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:00:00",
+  "valuenum": "16.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:00:00",
+  "valuenum": "63.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:07:00",
+  "valuenum": "70.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.1166666666666663"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:08:00",
+  "valuenum": "1.0010009864345193",
+  "itemid": "221749",
+  "source": "pressor",
+  "label": "true",
+  "hrs_since_anchor": "4.1333333333333337"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:10:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.166666666666667"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:10:00",
+  "valuenum": "64.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.166666666666667"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:10:00",
+  "valuenum": "74.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.166666666666667"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:10:00",
+  "valuenum": "12.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.166666666666667"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:10:00",
+  "valuenum": "50.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.166666666666667"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:15:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.25"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:15:00",
+  "valuenum": "8.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.25"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:15:00",
+  "valuenum": "2.0042771939188242",
+  "itemid": "221749",
+  "source": "pressor",
+  "label": "true",
+  "hrs_since_anchor": "4.25"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:15:00",
+  "valuenum": "72.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.25"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:15:00",
+  "valuenum": "54.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.25"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:25:00",
+  "valuenum": "1.0021385969594121",
+  "itemid": "221749",
+  "source": "pressor",
+  "label": "true",
+  "hrs_since_anchor": "4.416666666666667"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:30:00",
+  "valuenum": "18.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.5"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:30:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.5"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:30:00",
+  "valuenum": "79.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.5"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:30:00",
+  "valuenum": "82.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.5"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:34:00",
+  "valuenum": "0.501069298479706",
+  "itemid": "221749",
+  "source": "pressor",
+  "label": "true",
+  "hrs_since_anchor": "4.5666666666666664"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T19:38:00",
+  "valuenum": "118.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.6333333333333337"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T20:00:00",
+  "valuenum": "99.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T20:00:00",
+  "valuenum": "57.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T20:00:00",
+  "valuenum": "67.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T20:00:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T20:00:00",
+  "valuenum": "16.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T20:30:00",
+  "valuenum": "120.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.5"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T20:30:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.5"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T20:30:00",
+  "valuenum": "79.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.5"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T20:30:00",
+  "valuenum": "74.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.5"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T20:30:00",
+  "valuenum": "15.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.5"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T21:00:00",
+  "valuenum": "99.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T21:00:00",
+  "valuenum": "113.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T21:00:00",
+  "valuenum": "13.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T21:00:00",
+  "valuenum": "81.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T21:00:00",
+  "valuenum": "80.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T22:00:00",
+  "valuenum": "108.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T22:00:00",
+  "valuenum": "77.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T22:00:00",
+  "valuenum": "72.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T22:00:00",
+  "valuenum": "99.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T22:00:00",
+  "valuenum": "14.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T23:00:00",
+  "valuenum": "103.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T23:00:00",
+  "valuenum": "13.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T23:00:00",
+  "valuenum": "73.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T23:00:00",
+  "valuenum": "99.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-07T23:00:00",
+  "valuenum": "75.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T00:00:00",
+  "valuenum": "82.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T00:00:00",
+  "valuenum": "78.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T00:00:00",
+  "valuenum": "104.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T00:00:00",
+  "valuenum": "14.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T00:00:00",
+  "valuenum": "98.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T01:00:00",
+  "valuenum": "67.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T01:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T01:00:00",
+  "valuenum": "11.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T01:00:00",
+  "valuenum": "65.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T01:00:00",
+  "valuenum": "91.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T02:00:00",
+  "valuenum": "99.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T02:00:00",
+  "valuenum": "72.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T02:00:00",
+  "valuenum": "12.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T02:00:00",
+  "valuenum": "96.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T02:00:00",
+  "valuenum": "74.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T02:56:00",
+  "valuenum": "129.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.933333333333334"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T02:56:00",
+  "valuenum": "198.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.933333333333334"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T02:56:00",
+  "valuenum": "1.1",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.933333333333334"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T02:56:00",
+  "valuenum": "20.0",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.933333333333334"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T03:00:00",
+  "valuenum": "74.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "12.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T03:00:00",
+  "valuenum": "101.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "12.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T03:00:00",
+  "valuenum": "98.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "12.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T03:00:00",
+  "valuenum": "73.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "12.0"
+}, {
+  "stay_id": "30103961",
+  "event_time": "2114-03-08T03:00:00",
+  "valuenum": "14.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "12.0"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-03-31T23:11:00",
+  "valuenum": "95.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.45"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-03-31T23:12:00",
+  "valuenum": "18.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.43333333333333335"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-03-31T23:13:00",
+  "valuenum": "27.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.41666666666666669"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-03-31T23:13:00",
+  "valuenum": "93.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.41666666666666669"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-03-31T23:14:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.4"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-03-31T23:17:00",
+  "valuenum": "158.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.35"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-03-31T23:39:00",
+  "valuenum": "0.7",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.016666666666666666"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-03-31T23:39:00",
+  "valuenum": "0.3",
+  "itemid": "50885",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.016666666666666666"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-03-31T23:39:00",
+  "valuenum": "11.7",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.016666666666666666"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-03-31T23:39:00",
+  "valuenum": "117.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.016666666666666666"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-03-31T23:39:00",
+  "valuenum": "230.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.016666666666666666"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T00:00:00",
+  "valuenum": "98.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.36666666666666664"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T00:00:00",
+  "valuenum": "22.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.36666666666666664"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T00:00:00",
+  "valuenum": "101.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.36666666666666664"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T00:13:00",
+  "valuenum": "151.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.58333333333333337"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T01:00:00",
+  "valuenum": "83.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.3666666666666667"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T01:00:00",
+  "valuenum": "98.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.3666666666666667"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T01:00:00",
+  "valuenum": "18.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.3666666666666667"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T01:00:00",
+  "valuenum": "145.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.3666666666666667"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T02:00:00",
+  "valuenum": "19.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.3666666666666667"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T02:00:00",
+  "valuenum": "99.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.3666666666666667"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T02:00:00",
+  "valuenum": "138.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.3666666666666667"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T02:00:00",
+  "valuenum": "86.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.3666666666666667"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T03:00:00",
+  "valuenum": "155.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.3666666666666667"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T03:00:00",
+  "valuenum": "89.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.3666666666666667"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T03:00:00",
+  "valuenum": "98.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.3666666666666667"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T03:00:00",
+  "valuenum": "19.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.3666666666666667"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T03:09:00",
+  "valuenum": "1.6",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "3.5166666666666666"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T03:09:00",
+  "valuenum": "7.43",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "3.5166666666666666"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T04:00:00",
+  "valuenum": "25.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.3666666666666663"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T04:00:00",
+  "valuenum": "107.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.3666666666666663"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T04:00:00",
+  "valuenum": "161.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.3666666666666663"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T04:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.3666666666666663"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T05:00:00",
+  "valuenum": "18.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.3666666666666663"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T05:00:00",
+  "valuenum": "156.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.3666666666666663"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T05:00:00",
+  "valuenum": "84.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.3666666666666663"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T05:00:00",
+  "valuenum": "98.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.3666666666666663"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T06:00:00",
+  "valuenum": "156.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.3666666666666663"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T06:00:00",
+  "valuenum": "95.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.3666666666666663"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T06:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.3666666666666663"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T06:00:00",
+  "valuenum": "23.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.3666666666666663"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T07:00:00",
+  "valuenum": "157.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.3666666666666663"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T07:00:00",
+  "valuenum": "19.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.3666666666666663"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T07:00:00",
+  "valuenum": "97.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.3666666666666663"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T07:00:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.3666666666666663"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T08:00:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.3666666666666671"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T08:00:00",
+  "valuenum": "149.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.3666666666666671"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T08:00:00",
+  "valuenum": "97.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.3666666666666671"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T08:00:00",
+  "valuenum": "24.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.3666666666666671"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T09:00:00",
+  "valuenum": "84.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.3666666666666671"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T09:00:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.3666666666666671"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T09:00:00",
+  "valuenum": "17.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.3666666666666671"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T09:23:00",
+  "valuenum": "153.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.75"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T10:00:00",
+  "valuenum": "6.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.366666666666667"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T10:00:00",
+  "valuenum": "99.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.366666666666667"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T10:00:00",
+  "valuenum": "80.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.366666666666667"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T10:00:00",
+  "valuenum": "108.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.366666666666667"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T11:00:00",
+  "valuenum": "147.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.366666666666667"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T11:00:00",
+  "valuenum": "89.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.366666666666667"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T11:00:00",
+  "valuenum": "14.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.366666666666667"
+}, {
+  "stay_id": "30133837",
+  "event_time": "2172-04-01T11:00:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.366666666666667"
+}, {
+  "stay_id": "30139780",
+  "event_time": "2151-07-09T11:10:00",
+  "valuenum": "138.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-2.0333333333333332"
+}, {
+  "stay_id": "30139780",
+  "event_time": "2151-07-09T11:10:00",
+  "valuenum": "371.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-2.0333333333333332"
+}, {
+  "stay_id": "30139780",
+  "event_time": "2151-07-09T11:10:00",
+  "valuenum": "2.4",
+  "itemid": "50885",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-2.0333333333333332"
+}, {
+  "stay_id": "30139780",
+  "event_time": "2151-07-09T11:10:00",
+  "valuenum": "10.9",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-2.0333333333333332"
+}, {
+  "stay_id": "30139780",
+  "event_time": "2151-07-09T11:10:00",
+  "valuenum": "0.6",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-2.0333333333333332"
+}, {
+  "stay_id": "30139780",
+  "event_time": "2151-07-09T11:38:00",
+  "valuenum": "2.8",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-1.5666666666666667"
+}, {
+  "stay_id": "30139780",
+  "event_time": "2151-07-09T17:15:00",
+  "valuenum": "2.9",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "4.05"
+}, {
+  "stay_id": "30148627",
+  "event_time": "2175-05-18T04:42:00",
+  "valuenum": "14.4",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-19.983333333333334"
+}, {
+  "stay_id": "30148627",
+  "event_time": "2175-05-18T04:42:00",
+  "valuenum": "126.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-19.983333333333334"
+}, {
+  "stay_id": "30148627",
+  "event_time": "2175-05-18T04:42:00",
+  "valuenum": "264.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-19.983333333333334"
+}, {
+  "stay_id": "30148627",
+  "event_time": "2175-05-18T04:42:00",
+  "valuenum": "0.9",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-19.983333333333334"
+}, {
+  "stay_id": "30148627",
+  "event_time": "2175-05-19T09:12:00",
+  "valuenum": "1.0",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "8.5166666666666675"
+}, {
+  "stay_id": "30148627",
+  "event_time": "2175-05-19T09:12:00",
+  "valuenum": "121.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "8.5166666666666675"
+}, {
+  "stay_id": "30148627",
+  "event_time": "2175-05-19T09:12:00",
+  "valuenum": "262.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "8.5166666666666675"
+}, {
+  "stay_id": "30148627",
+  "event_time": "2175-05-19T09:12:00",
+  "valuenum": "13.6",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "8.5166666666666675"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T18:49:00",
+  "valuenum": "34.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.1833333333333331"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T18:49:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.1833333333333331"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T18:49:00",
+  "valuenum": "111.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.1833333333333331"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T18:50:00",
+  "valuenum": "151.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.1666666666666665"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T18:58:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.0333333333333332"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T18:58:00",
+  "valuenum": "107.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.0333333333333332"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T18:58:00",
+  "valuenum": "26.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.0333333333333332"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T19:00:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T19:00:00",
+  "valuenum": "112.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T19:00:00",
+  "valuenum": "36.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-2.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T19:02:00",
+  "valuenum": "147.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-1.9666666666666666"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T20:00:00",
+  "valuenum": "23.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-1.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T20:00:00",
+  "valuenum": "115.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-1.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T20:01:00",
+  "valuenum": "81.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.98333333333333328"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T20:04:00",
+  "valuenum": "194.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.93333333333333335"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T21:00:00",
+  "valuenum": "92.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T21:00:00",
+  "valuenum": "115.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T21:00:00",
+  "valuenum": "27.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T21:03:00",
+  "valuenum": "154.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.05"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T21:06:00",
+  "valuenum": "1.0",
+  "itemid": "50885",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.1"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T21:06:00",
+  "valuenum": "9.5",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.1"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T21:06:00",
+  "valuenum": "220.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.1"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T21:06:00",
+  "valuenum": "1.3",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.1"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T21:06:00",
+  "valuenum": "183.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.1"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T22:00:00",
+  "valuenum": "27.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T22:00:00",
+  "valuenum": "93.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T22:00:00",
+  "valuenum": "109.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T22:03:00",
+  "valuenum": "140.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.05"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T23:00:00",
+  "valuenum": "90.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T23:00:00",
+  "valuenum": "117.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T23:00:00",
+  "valuenum": "35.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-06T23:03:00",
+  "valuenum": "159.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.05"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T00:00:00",
+  "valuenum": "115.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T00:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T00:00:00",
+  "valuenum": "36.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T00:03:00",
+  "valuenum": "170.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.05"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T01:00:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T01:00:00",
+  "valuenum": "25.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T01:00:00",
+  "valuenum": "114.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T01:03:00",
+  "valuenum": "144.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.05"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T02:00:00",
+  "valuenum": "102.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T02:00:00",
+  "valuenum": "28.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T02:00:00",
+  "valuenum": "93.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T02:03:00",
+  "valuenum": "150.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.05"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T03:00:00",
+  "valuenum": "93.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T03:00:00",
+  "valuenum": "100.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T03:00:00",
+  "valuenum": "25.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T03:03:00",
+  "valuenum": "133.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.05"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T04:00:00",
+  "valuenum": "89.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T04:00:00",
+  "valuenum": "103.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T04:00:00",
+  "valuenum": "31.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T04:02:00",
+  "valuenum": "147.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.0333333333333332"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T05:00:00",
+  "valuenum": "27.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T05:00:00",
+  "valuenum": "98.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T05:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T06:00:00",
+  "valuenum": "19.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T06:00:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T06:00:00",
+  "valuenum": "110.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T06:06:00",
+  "valuenum": "139.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.1"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T07:00:00",
+  "valuenum": "93.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T07:00:00",
+  "valuenum": "21.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T07:00:00",
+  "valuenum": "107.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T07:03:00",
+  "valuenum": "117.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.05"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T08:00:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T08:00:00",
+  "valuenum": "27.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T08:00:00",
+  "valuenum": "108.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T08:03:00",
+  "valuenum": "145.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.05"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T08:55:00",
+  "valuenum": "1.2",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.916666666666666"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T08:55:00",
+  "valuenum": "202.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.916666666666666"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T08:55:00",
+  "valuenum": "174.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.916666666666666"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T08:55:00",
+  "valuenum": "8.8",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.916666666666666"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T09:00:00",
+  "valuenum": "103.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "12.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T09:00:00",
+  "valuenum": "98.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "12.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T09:00:00",
+  "valuenum": "32.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "12.0"
+}, {
+  "stay_id": "30257236",
+  "event_time": "2115-05-07T09:03:00",
+  "valuenum": "123.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "12.05"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T13:15:00",
+  "valuenum": "118.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.0"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T13:15:00",
+  "valuenum": "93.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.0"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T13:15:00",
+  "valuenum": "0.5",
+  "itemid": "50885",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.0"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T13:15:00",
+  "valuenum": "12.3",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.0"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T13:15:00",
+  "valuenum": "1.2",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.0"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T13:28:00",
+  "valuenum": "1.8",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.21666666666666667"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T14:10:00",
+  "valuenum": "7.3",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.91666666666666663"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T16:17:00",
+  "valuenum": "7.36",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "3.0333333333333332"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T17:06:00",
+  "valuenum": "17.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.85"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T17:06:00",
+  "valuenum": "135.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.85"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T17:07:00",
+  "valuenum": "123.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.8666666666666667"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T17:08:00",
+  "valuenum": "83.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.8833333333333333"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T17:10:00",
+  "valuenum": "87.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.9166666666666665"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T17:10:00",
+  "valuenum": "22.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.9166666666666665"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T17:10:00",
+  "valuenum": "137.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.9166666666666665"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T17:20:00",
+  "valuenum": "137.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.083333333333333"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T17:20:00",
+  "valuenum": "92.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.083333333333333"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T17:20:00",
+  "valuenum": "25.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.083333333333333"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T17:41:00",
+  "valuenum": "1.0",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "4.4333333333333336"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T17:41:00",
+  "valuenum": "11.1",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "4.4333333333333336"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T17:41:00",
+  "valuenum": "99.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "4.4333333333333336"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T17:41:00",
+  "valuenum": "0.5",
+  "itemid": "50885",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "4.4333333333333336"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T17:41:00",
+  "valuenum": "113.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "4.4333333333333336"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T17:53:00",
+  "valuenum": "1.0",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "4.6333333333333337"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T18:00:00",
+  "valuenum": "92.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T18:00:00",
+  "valuenum": "135.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T18:00:00",
+  "valuenum": "128.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T18:00:00",
+  "valuenum": "16.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T19:00:00",
+  "valuenum": "20.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T19:00:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T19:00:00",
+  "valuenum": "136.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T19:21:00",
+  "valuenum": "112.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.1"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T20:00:00",
+  "valuenum": "19.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T20:00:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T20:00:00",
+  "valuenum": "134.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T21:00:00",
+  "valuenum": "100.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T21:00:00",
+  "valuenum": "93.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T21:00:00",
+  "valuenum": "21.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T21:00:00",
+  "valuenum": "134.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T22:00:00",
+  "valuenum": "21.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T22:00:00",
+  "valuenum": "100.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T22:00:00",
+  "valuenum": "133.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T22:00:00",
+  "valuenum": "91.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T23:00:00",
+  "valuenum": "19.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T23:00:00",
+  "valuenum": "111.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T23:00:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-21T23:00:00",
+  "valuenum": "105.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-22T00:00:00",
+  "valuenum": "85.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-22T00:00:00",
+  "valuenum": "85.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-22T00:00:00",
+  "valuenum": "18.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-22T00:01:00",
+  "valuenum": "90.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.766666666666667"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-22T01:00:00",
+  "valuenum": "117.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-22T01:00:00",
+  "valuenum": "19.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-22T01:00:00",
+  "valuenum": "85.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.75"
+}, {
+  "stay_id": "30275290",
+  "event_time": "2183-12-22T01:01:00",
+  "valuenum": "112.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.766666666666667"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T04:30:00",
+  "valuenum": "173.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-13.016666666666667"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T04:30:00",
+  "valuenum": "0.5",
+  "itemid": "50885",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-13.016666666666667"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T04:30:00",
+  "valuenum": "2.9",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-13.016666666666667"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T04:30:00",
+  "valuenum": "20.4",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-13.016666666666667"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T04:30:00",
+  "valuenum": "229.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-13.016666666666667"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T17:33:00",
+  "valuenum": "256.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.033333333333333333"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T17:33:00",
+  "valuenum": "2.7",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.033333333333333333"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T17:33:00",
+  "valuenum": "139.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.033333333333333333"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T17:33:00",
+  "valuenum": "20.5",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.033333333333333333"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T17:42:00",
+  "valuenum": "7.34",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.18333333333333332"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T17:42:00",
+  "valuenum": "2.3",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.18333333333333332"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T17:47:00",
+  "valuenum": "63.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.26666666666666666"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T18:05:00",
+  "valuenum": "62.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.56666666666666665"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T18:05:00",
+  "valuenum": "9.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.56666666666666665"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T18:05:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.56666666666666665"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T18:10:00",
+  "valuenum": "125.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.65"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T19:00:00",
+  "valuenum": "25.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T19:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T19:00:00",
+  "valuenum": "62.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T19:01:00",
+  "valuenum": "92.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.5"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T20:00:00",
+  "valuenum": "26.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T20:00:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T20:00:00",
+  "valuenum": "60.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T20:01:00",
+  "valuenum": "102.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.5"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T20:13:00",
+  "valuenum": "7.36",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "2.7"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T20:13:00",
+  "valuenum": "2.3",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "2.7"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T21:00:00",
+  "valuenum": "22.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T21:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T21:00:00",
+  "valuenum": "61.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T21:01:00",
+  "valuenum": "116.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.5"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T22:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T22:00:00",
+  "valuenum": "61.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T22:00:00",
+  "valuenum": "30.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T22:01:00",
+  "valuenum": "103.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.5"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T23:00:00",
+  "valuenum": "61.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T23:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T23:00:00",
+  "valuenum": "23.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-02T23:01:00",
+  "valuenum": "91.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.5"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T00:00:00",
+  "valuenum": "24.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T00:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T00:00:00",
+  "valuenum": "98.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T00:00:00",
+  "valuenum": "60.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T01:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T01:00:00",
+  "valuenum": "65.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T01:00:00",
+  "valuenum": "102.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T01:00:00",
+  "valuenum": "27.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.4833333333333334"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T02:00:00",
+  "valuenum": "24.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.4833333333333325"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T02:00:00",
+  "valuenum": "62.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.4833333333333325"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T02:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.4833333333333325"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T02:01:00",
+  "valuenum": "114.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.5"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T03:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.4833333333333325"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T03:00:00",
+  "valuenum": "125.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.4833333333333325"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T03:00:00",
+  "valuenum": "63.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.4833333333333325"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T03:00:00",
+  "valuenum": "35.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.4833333333333325"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T03:52:00",
+  "valuenum": "20.5",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "10.35"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T03:52:00",
+  "valuenum": "231.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "10.35"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T03:52:00",
+  "valuenum": "82.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "10.35"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T03:52:00",
+  "valuenum": "2.8",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "10.35"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T04:00:00",
+  "valuenum": "7.42",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "10.483333333333333"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T04:00:00",
+  "valuenum": "63.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.483333333333333"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T04:00:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.483333333333333"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T04:00:00",
+  "valuenum": "25.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.483333333333333"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T04:00:00",
+  "valuenum": "1.7",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "10.483333333333333"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T04:01:00",
+  "valuenum": "124.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.5"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T05:00:00",
+  "valuenum": "60.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.483333333333333"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T05:00:00",
+  "valuenum": "123.0",
+  "itemid": "220179",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.483333333333333"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T05:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.483333333333333"
+}, {
+  "stay_id": "30280765",
+  "event_time": "2175-03-03T05:00:00",
+  "valuenum": "19.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.483333333333333"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T10:35:00",
+  "valuenum": "0.8",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-4.416666666666667"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T10:35:00",
+  "valuenum": "7.47",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-4.416666666666667"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T12:35:00",
+  "valuenum": "7.48",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-2.4166666666666665"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T12:35:00",
+  "valuenum": "1.5",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-2.4166666666666665"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T14:30:00",
+  "valuenum": "16.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.5"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T14:30:00",
+  "valuenum": "70.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.5"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T14:43:00",
+  "valuenum": "99.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.28333333333333333"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T14:44:00",
+  "valuenum": "86.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.26666666666666666"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T14:45:00",
+  "valuenum": "99.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.25"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T14:45:00",
+  "valuenum": "70.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.25"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T14:45:00",
+  "valuenum": "15.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.25"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T14:45:00",
+  "valuenum": "105.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.25"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T14:48:00",
+  "valuenum": "72.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.2"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T14:48:00",
+  "valuenum": "101.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.2"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T14:48:00",
+  "valuenum": "18.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.2"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T14:48:00",
+  "valuenum": "98.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.2"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T15:00:00",
+  "valuenum": "105.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T15:00:00",
+  "valuenum": "70.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T15:00:00",
+  "valuenum": "15.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T15:00:00",
+  "valuenum": "99.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T15:15:00",
+  "valuenum": "105.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.25"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T15:15:00",
+  "valuenum": "99.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.25"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T15:30:00",
+  "valuenum": "105.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.5"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T15:30:00",
+  "valuenum": "99.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.5"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T15:45:00",
+  "valuenum": "17.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.75"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T15:45:00",
+  "valuenum": "99.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.75"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T15:45:00",
+  "valuenum": "68.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.75"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T15:45:00",
+  "valuenum": "105.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.75"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T16:00:00",
+  "valuenum": "17.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T16:00:00",
+  "valuenum": "99.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T16:00:00",
+  "valuenum": "68.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T16:00:00",
+  "valuenum": "105.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "1.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T17:00:00",
+  "valuenum": "109.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T17:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T17:00:00",
+  "valuenum": "73.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T17:00:00",
+  "valuenum": "16.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "2.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T18:00:00",
+  "valuenum": "101.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T18:00:00",
+  "valuenum": "78.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T18:00:00",
+  "valuenum": "98.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T18:00:00",
+  "valuenum": "18.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "3.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T19:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T19:00:00",
+  "valuenum": "89.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T19:00:00",
+  "valuenum": "82.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T19:00:00",
+  "valuenum": "19.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "4.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T20:00:00",
+  "valuenum": "95.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T20:00:00",
+  "valuenum": "84.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T20:00:00",
+  "valuenum": "89.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T20:00:00",
+  "valuenum": "19.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "5.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T21:00:00",
+  "valuenum": "89.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T21:00:00",
+  "valuenum": "15.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T21:00:00",
+  "valuenum": "96.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T21:02:00",
+  "valuenum": "98.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "6.0333333333333332"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T22:00:00",
+  "valuenum": "94.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T22:00:00",
+  "valuenum": "15.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T22:00:00",
+  "valuenum": "82.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T22:00:00",
+  "valuenum": "94.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "7.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T23:00:00",
+  "valuenum": "74.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T23:00:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T23:00:00",
+  "valuenum": "88.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-01T23:00:00",
+  "valuenum": "13.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "8.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-02T00:00:00",
+  "valuenum": "19.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-02T00:00:00",
+  "valuenum": "98.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-02T00:00:00",
+  "valuenum": "104.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-02T00:00:00",
+  "valuenum": "76.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "9.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-02T01:00:00",
+  "valuenum": "74.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-02T01:00:00",
+  "valuenum": "97.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-02T01:00:00",
+  "valuenum": "97.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-02T01:00:00",
+  "valuenum": "15.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "10.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-02T02:00:00",
+  "valuenum": "80.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-02T02:00:00",
+  "valuenum": "95.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-02T02:00:00",
+  "valuenum": "89.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-02T02:00:00",
+  "valuenum": "14.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "11.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-02T02:08:00",
+  "valuenum": "173.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.133333333333333"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-02T02:08:00",
+  "valuenum": "317.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.133333333333333"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-02T02:08:00",
+  "valuenum": "1.2",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.133333333333333"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-02T02:08:00",
+  "valuenum": "21.4",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "11.133333333333333"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-02T03:00:00",
+  "valuenum": "86.0",
+  "itemid": "220052",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "12.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-02T03:00:00",
+  "valuenum": "79.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "12.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-02T03:00:00",
+  "valuenum": "13.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "12.0"
+}, {
+  "stay_id": "30287301",
+  "event_time": "2143-08-02T03:00:00",
+  "valuenum": "96.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "12.0"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T06:51:00",
+  "valuenum": "162.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-10.65"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T06:51:00",
+  "valuenum": "1.3",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-10.65"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T06:51:00",
+  "valuenum": "100.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-10.65"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T06:51:00",
+  "valuenum": "8.3",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-10.65"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T16:23:00",
+  "valuenum": "7.37",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-1.1166666666666667"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T16:23:00",
+  "valuenum": "1.2",
+  "itemid": "50813",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-1.1166666666666667"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:03:00",
+  "valuenum": "19.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.45"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:03:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.45"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:03:00",
+  "valuenum": "63.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.45"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:04:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.43333333333333335"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:05:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.41666666666666669"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:06:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.4"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:06:00",
+  "valuenum": "21.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.4"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:06:00",
+  "valuenum": "79.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.4"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:15:00",
+  "valuenum": "21.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.25"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:15:00",
+  "valuenum": "87.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.25"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:15:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "-0.25"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:25:00",
+  "valuenum": "162.0",
+  "itemid": "51265",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-0.083333333333333329"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:25:00",
+  "valuenum": "10.4",
+  "itemid": "51301",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-0.083333333333333329"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:25:00",
+  "valuenum": "149.0",
+  "itemid": "50931",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-0.083333333333333329"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:25:00",
+  "valuenum": "1.2",
+  "itemid": "50912",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "-0.083333333333333329"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:30:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.0"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:30:00",
+  "valuenum": "78.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.0"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:30:00",
+  "valuenum": "17.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.0"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:35:00",
+  "valuenum": "7.38",
+  "itemid": "50820",
+  "source": "lab",
+  "label": "true",
+  "hrs_since_anchor": "0.083333333333333329"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:45:00",
+  "valuenum": "17.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.25"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:45:00",
+  "valuenum": "78.0",
+  "itemid": "220045",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.25"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T17:45:00",
+  "valuenum": "100.0",
+  "itemid": "220277",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.25"
+}, {
+  "stay_id": "30304634",
+  "event_time": "2131-09-21T18:00:00",
+  "valuenum": "21.0",
+  "itemid": "220210",
+  "source": "vital",
+  "label": "true",
+  "hrs_since_anchor": "0.5"
+}]
