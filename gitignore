@@ -1,6 +1,8 @@
 # Datasets (Nishal will need to download these locally on his machine)
 data/
 *.csv
+*.pkl
+*.index
 
 # Python Cache
 __pycache__/
@@ -9,3 +11,6 @@ __pycache__/
 
 # Secrets
 .env
+*.pkl
+*.index
+

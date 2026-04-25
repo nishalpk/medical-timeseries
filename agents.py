@@ -1,7 +1,7 @@
 import time
 import networkx as nx
 import google.generativeai as genai
-from graph_utils import load_primekg, get_item_mapping
+from mostly_junk.graph_utils import load_primekg, get_item_mapping
 
 def setup_gemini(api_key):
     """Initializes the Gemini model using the provided API key."""

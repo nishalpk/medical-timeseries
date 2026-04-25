@@ -80,7 +80,7 @@ if __name__ == "__main__":
     )
 
     # Test with a sample from your MIMIC-IV dataset
-    sample_case = '{"itemid": "220052", "sequence": [70, 68, 65, 62], "time": [0, 1, 2, 3]}'
+    sample_case = '{"vital_name": "MAP", "sequence": [70, 68, 65, 62], "time": [0, 1, 2, 3]}'
     
     result = PIPELINE.run_inference(sample_case)
 
