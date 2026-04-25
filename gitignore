@@ -1,0 +1,11 @@
+# Datasets (Nishal will need to download these locally on his machine)
+data/
+*.csv
+
+# Python Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets
+.env
