@@ -1,6 +1,8 @@
 import torch
 import torch.nn as nn
 
+
+## Trash: Placeholder for the MIRA Time-Series Encoder (Bi-GRU + Attention)
 class MIRATimeSeriesEncoder(nn.Module):
     """Processes raw ICU vitals using Bi-GRU and Attention."""
     def __init__(self, input_features=5, hidden_dim=128):
