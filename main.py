@@ -6,11 +6,126 @@ from graph_rag import PrimeKGGraphRAG
 from model.moe_system import FullSystemMoE
 from utils.gemini_client import MedicalEmbeddingClient
 from dotenv import load_dotenv
+from torch.utils.data import DataLoader, Dataset
 import os
+import torch
+import torch.nn as nn
+import torch.optim as optim
 
 load_dotenv()
 
+class SymbolicLayer:
+    def __init__(self):
+        #qSOFA and Sepsis Logic Implementation 
+        self.rules = {
+                # Vitals (Standard Thresholds)
+                "220052": {"name": "MAP", "min": 65},          # Sepsis-3 threshold [cite: 44]
+                "220045": {"name": "Heart Rate", "max": 100},  # Tachycardia [cite: 39]
+                "220210": {"name": "Resp Rate", "max": 22},    # qSOFA criteria [cite: 28]
+                "220277": {"name": "SpO2", "min": 90},         # Hypoxia threshold
+                "223762": {"name": "Temp (C)", "range": (36, 38)}, 
+                
+                # Labs (Organ Failure / SOFA markers) [cite: 69, 133]
+                "50813": {"name": "Lactate", "max": 2.0},      # Septic Shock marker
+                "50820": {"name": "pH", "min": 7.35},          # Acidosis
+                "50912": {"name": "Creatinine", "max": 1.2},   # Renal SOFA
+                "50885": {"name": "Bilirubin", "max": 1.2},    # Hepatic SOFA
+                "51265": {"name": "Platelets", "min": 150},    # Coagulation SOFA
+                "51301": {"name": "WBC", "range": (4, 12)},    # Infection marker
+                "50931": {"name": "Glucose", "range": (70, 180)}
+            }
+            
+            # Pressor IDs for Refractory Shock Logic [cite: 19, 44]
+        self.pressors = ["221289", "221662", "221749", "221906", "222315"]
+
+    @staticmethod
+    def _to_scalar(value):
+        """Convert nested/tensor prediction values to a single float."""
+        if torch.is_tensor(value):
+            if value.numel() == 0:
+                return None
+            return float(value.reshape(-1)[0].item())
+
+        while isinstance(value, (list, tuple)):
+            if len(value) == 0:
+                return None
+            value = value[0]
+
+        try:
+            return float(value)
+        except (TypeError, ValueError):
+            return None
+        
+    def check_violation(self, itemid, forecast_val, patient_meds=None):
+        """Returns 1 if a clinical law is violated, else 0."""
+        rule = self.rules.get(itemid)
+        if not rule: return 0
+
+        forecast_val = self._to_scalar(forecast_val)
+        if forecast_val is None:
+            return 0
+        
+        violation = 0
+        # Basic threshold checks
+        if "min" in rule and forecast_val < rule["min"]: violation = 1
+        if "max" in rule and forecast_val > rule["max"]: violation = 1
+        if "range" in rule:
+            if forecast_val < rule["range"][0] or forecast_val > rule["range"][1]:
+                violation = 1
+                
+        # Advanced Logic: MAP < 65 while on Pressors indicates shock [cite: 19, 44]
+        if itemid == "220052" and forecast_val < 65:
+            if any(m in (patient_meds or []) for m in self.pressors):
+                violation = 1 # High-risk refractory state detected
+                
+        return violation
+
+    def calculate_vcc(self, patient_results):
+        """
+        Automates Vcc calculation across N patients.
+        Vcc = Total Violations / Total Predictions.
+        """
+        total_predictions = 0
+        total_violations = 0
+        
+        for record in patient_results:
+            itemid = str(record['itemid'])
+            forecasts = record['forecast'] # MIRA's statistical output 
+            meds = record.get('current_meds', [])
+            
+            for val in forecasts:
+                total_predictions += 1
+                total_violations += self.check_violation(itemid, val, meds)
+                
+        vcc_rate = total_violations / total_predictions if total_predictions > 0 else 0
+        return vcc_rate, total_violations, total_predictions
+    
+
+class SepsisMoEDataset(Dataset):
+    def __init__(self, jsonl_path, embedding_dir):
+        self.samples = []
+        with open(jsonl_path, 'r') as f:
+            for line in f:
+                self.samples.append(json.loads(line))
+        self.embedding_dir = embedding_dir
+
+    def __len__(self):
+        return len(self.samples)
+
+    def __getitem__(self, idx):
+        item = self.samples[idx]
+        # Pre-computed Gemini Embeddings are essential for training speed
+        emb_path = os.path.join(self.embedding_dir, f"{item['stay_id']}_{item['itemid']}.pt")
+        return {
+            "vitals": torch.tensor(item['sequence'], dtype=torch.float32).unsqueeze(-1),
+            "times": torch.tensor(item['time'], dtype=torch.float32),
+            "text_emb": torch.load(emb_path), # [3072]
+            "label": torch.tensor([item['label']], dtype=torch.float32)
+        }
+
 class NeurosymbolicPipeline:
+    # Pillar IV: Expert Domain Mapping [cite: 81-82, 171]
+
     def __init__(self, mira_ckpt, kg_path, gemini_key):
         print("🛠️ Initializing Full Neurosymbolic Pipeline...")
         # 1. Neural Component (Nishal's MIRA)
@@ -23,13 +138,22 @@ class NeurosymbolicPipeline:
         # 3. Decision Component (MoE System)
         self.gemini = MedicalEmbeddingClient(gemini_key)
         self.moe = FullSystemMoE(text_embed_dim=3072).to("cuda").eval()
+        self.expert_map = {
+        # Hemodynamic Specialist (Expert 0)
+        "220045": 0, "220052": 0, "220210": 0, "221906": 0, "221289": 0, "222315": 0, "221662": 0, "221749": 0,
+        # Biochemical Specialist (Expert 1)
+        "50813": 1, "50912": 1, "50885": 1, "51265": 1, "51301": 1, "50820": 1,
+        # Generalist Specialist (Expert 2)
+        "220277": 2, "223762": 2, "50931": 2
+    }
 
     def run_inference(self, patient_jsonl_line):
         """
         Runs a single patient case through the entire Neurosymbolic chain.
         """
         data = json.loads(patient_jsonl_line)
-        itemid = str(data['itemid'])
+        itemid = str(data['vital_name'])
+        itemidtrue = str(data['item_id']) # Use original itemid if available for evaluation
         
         # --- STEP 1: NEURAL ENCODING (MIRA) ---
         # Extract the high-dimensional latent representation and forecast
@@ -61,14 +185,115 @@ class NeurosymbolicPipeline:
             # We pass the latent_vector from MIRA directly into the MoE system
             risk_score, final_forecast, weights = self.moe(latent_vector, text_emb)
 
+        # itemidtrue = data.get('itemid', itemid)  # Use original itemid if available for evaluation 
+        SymbolicEvaluator = SymbolicLayer()
+        patient_results = [{
+            "itemid": itemidtrue,
+            "forecast": mira_forecast.cpu().numpy()[0].tolist(),
+            "current_meds": data.get('current_meds', [])
+        }]
+        vcc_rate, total_violations, total_predictions = SymbolicEvaluator.calculate_vcc(patient_results)
 
         return {
             "risk": risk_score.item(),
             "forecast": final_forecast,
             "time_series_forecast": mira_forecast.cpu().numpy(),
             "expert_weights": weights.tolist(),
-            "clinical_justification": clinical_path
+            "clinical_justification": clinical_path,
+            "vcc_rate": vcc_rate,
+            "total_violations": total_violations,
+            "total_predictions": total_predictions
         }
+    import torch.nn.utils.rnn as rnn_utils
+
+    @staticmethod
+    def sepsis_safe_collate(batch, context_window=64):
+        """
+        Ensures all tensors in a batch are the same size for Pillar IV training.
+        Pads shorter sequences and truncates longer ones to the fixed Context Window (C=64).
+        """
+        vitals = [item['vitals'] for item in batch]
+        times = [item['times'] for item in batch]
+        text_embs = torch.stack([item['text_emb'] for item in batch])
+        labels = torch.stack([item['label'] for item in batch])
+
+        # 1. Pad/Truncate Vitals to [Batch, 64, 1]
+        # We use 'post' padding to keep the temporal order correct
+        vitals_padded = []
+        for v in vitals:
+            if v.size(0) > context_window:
+                vitals_padded.append(v[:context_window])
+            else:
+                padding = torch.zeros(context_window - v.size(0), v.size(1))
+                vitals_padded.append(torch.cat([v, padding], dim=0))
+        
+        # 2. Pad/Truncate Times to [Batch, 64]
+        times_padded = []
+        for t in times:
+            if t.size(0) > context_window:
+                times_padded.append(t[:context_window])
+            else:
+                padding = torch.zeros(context_window - t.size(0))
+                times_padded.append(torch.cat([t, padding], dim=0))
+
+        return {
+            "vitals": torch.stack(vitals_padded),
+            "times": torch.stack(times_padded),
+            "text_emb": text_embs,
+            "label": labels
+        }
+    
+    def train_moe_system(self, train_jsonl, val_jsonl, embed_dir, epochs=10):
+        device = "cuda" if torch.cuda.is_available() else "cpu"
+        self.moe.to(device)
+        optimizer = optim.AdamW(self.moe.parameters(), lr=5e-5, weight_decay=1e-2)
+        
+        criterion_risk = nn.BCELoss()
+        criterion_forecast = nn.MSELoss()
+        criterion_routing = nn.CrossEntropyLoss() # To force specialization
+
+        train_loader = DataLoader(
+            SepsisMoEDataset(train_jsonl, embed_dir),
+            batch_size=32, shuffle=True, drop_last=True,
+            collate_fn=self.sepsis_safe_collate,
+        )
+
+        for epoch in range(epochs):
+            self.moe.train()
+            epoch_loss = 0
+
+            for batch in train_loader:
+                optimizer.zero_grad()
+                vitals = batch['vitals'].to(device)
+                
+                # --- FIX 1: TARGET NORMALIZATION ---
+                # Standardizing targets to Z-score space to stop high losses [cite: 58-60]
+                mean = vitals.mean(dim=1, keepdim=True)
+                std = vitals.std(dim=1, keepdim=True) + 1e-6
+                vitals_norm = (vitals - mean) / std
+
+                with torch.no_grad():
+                    latent, _ = self.mira.get_mira_outputs(vitals, batch['times'].to(device))
+
+                risk_pred, forecast_pred, weights = self.moe(latent, batch['text_emb'].to(device))
+
+                # --- FIX 2: SUPERVISED ROUTING ---
+                # Assigning target experts based on clinical item ID [cite: 90, 156]
+                target_experts = torch.tensor([self.expert_map.get(str(i), 2) for i in batch['itemid']]).to(device)
+                loss_route = criterion_routing(weights, target_experts)
+
+                # Task Losses
+                loss_r = criterion_risk(risk_pred, batch['label'].to(device))
+                loss_f = criterion_forecast(forecast_pred[:, :24, 0], vitals_norm[:, :24, 0])
+                
+                # Combine losses (Supervised Routing + Forecast + Risk)
+                total_loss = loss_r + (0.5 * loss_f) + (0.2 * loss_route)
+                
+                total_loss.backward()
+                optimizer.step()
+                epoch_loss += total_loss.item()
+
+            print(f"Epoch [{epoch+1}/{epochs}] - Normalized Loss: {epoch_loss/len(train_loader):.4f}")
 
 # --- FINAL SUBMISSION EXECUTION ---
 if __name__ == "__main__":
@@ -80,7 +305,7 @@ if __name__ == "__main__":
     )
 
     # Test with a sample from your MIMIC-IV dataset
-    sample_case = '{"vital_name": "MAP", "sequence": [70, 68, 65, 62], "time": [0, 1, 2, 3]}'
+    sample_case = '{"item_id":"220052","vital_name": "MAP", "sequence": [70, 68, 65, 62], "time": [0, 1, 2, 3]}'
     
     result = PIPELINE.run_inference(sample_case)
 

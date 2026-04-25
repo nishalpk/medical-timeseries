@@ -36,10 +36,11 @@ class MIRASystem:
                 output_hidden_states=True
             )
             
-            # Extract Latent Vector for Router: [1, 384]
-            # (Mean-pool the last hidden states of all 5 variables)
-            var_latents = outputs.hidden_states[-1][:, -1, :] # [5, 384]
-            latent_vector = var_latents.mean(dim=0, keepdim=True)
+            # Extract per-sample latent vectors for the router.
+            # outputs.hidden_states[-1] is [B*C, L, H]. We take the last token -> [B*C, H],
+            # reshape to [B, C, H], then mean over variables C -> [B, H].
+            var_latents = outputs.hidden_states[-1][:, -1, :].view(B, C, -1)
+            latent_vector = var_latents.mean(dim=1)
 
             # 4. Multi-Step Autoregressive Forecast
             cur_vals = v_reshaped.clone()
