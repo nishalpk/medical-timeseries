@@ -213,3 +213,4 @@ kg.csv
 *.pkl
 *.index
 
+.DS_Store
