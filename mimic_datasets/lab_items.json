@@ -1,0 +1,36 @@
+[{
+  "itemid": "50813",
+  "label": "Lactate",
+  "dbsource": "Blood",
+  "linksto": "Blood Gas"
+}, {
+  "itemid": "50820",
+  "label": "pH",
+  "dbsource": "Blood",
+  "linksto": "Blood Gas"
+}, {
+  "itemid": "50885",
+  "label": "Bilirubin, Total",
+  "dbsource": "Blood",
+  "linksto": "Chemistry"
+}, {
+  "itemid": "50912",
+  "label": "Creatinine",
+  "dbsource": "Blood",
+  "linksto": "Chemistry"
+}, {
+  "itemid": "50931",
+  "label": "Glucose",
+  "dbsource": "Blood",
+  "linksto": "Chemistry"
+}, {
+  "itemid": "51265",
+  "label": "Platelet Count",
+  "dbsource": "Blood",
+  "linksto": "Hematology"
+}, {
+  "itemid": "51301",
+  "label": "White Blood Cells",
+  "dbsource": "Blood",
+  "linksto": "Hematology"
+}]

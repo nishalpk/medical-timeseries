@@ -1,0 +1,21 @@
+[{
+  "itemid": "221289",
+  "label": "Epinephrine",
+  "linksto": "inputevents"
+}, {
+  "itemid": "221662",
+  "label": "Dopamine",
+  "linksto": "inputevents"
+}, {
+  "itemid": "221749",
+  "label": "Phenylephrine",
+  "linksto": "inputevents"
+}, {
+  "itemid": "221906",
+  "label": "Norepinephrine",
+  "linksto": "inputevents"
+}, {
+  "itemid": "222315",
+  "label": "Vasopressin",
+  "linksto": "inputevents"
+}]
