@@ -324,7 +324,6 @@ Why:
 3. Demo payload mismatch in `main.py`:
 	- `sample_case` does not include `itemid` though runtime requires it.
 
-These are useful first issues for new contributors.
 
 ## Suggested Repository Conventions
 
